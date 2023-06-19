@@ -1,0 +1,779 @@
+*{
+    box-sizing:border-box;
+    margin:0px;
+    
+}
+.m{
+    margin:0px; 
+}
+.r1{
+   
+    height:60px;
+    width:100%;
+    background-color: rgb(19, 25, 33);
+    
+}
+.logo{
+    height: 100%;
+    width: 113px;  
+}
+.c1{
+    float: left;
+    color:white;
+    height: 100%;
+    width: 113px; 
+    margin-left:15px; 
+}
+.c2{
+    padding:8px 9px 8px 9px;
+    color:white;
+    height:100%;
+    width:90.641px;
+    margin-left:7px;
+    float:left; 
+    
+}
+.loc{
+    
+    height:18px;
+    width:15px;
+    margin-top:8px;
+    float:left;
+}
+.loci{
+    
+    width:15px;
+    margin-top:8px;
+    float:left;
+    
+}
+
+.d{
+    color:white;
+    height:14px;
+    align-items:center;
+    text-align:center;
+    float:left;
+    font-weight:400;
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    font-size:12px;
+    float:left;
+    margin-top:9px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+    line-height:14px;
+        
+}
+
+.i{
+    color:white;
+    height:15px;
+    line-height:15px;
+    align-items:center;
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    float:none;
+    font-weight:700;
+    font-size:14px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+.hello{
+    color:white;
+    height:14px;
+    width:52.641;
+    float:none;
+    font-weight:400;
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    font-size:12px;
+}
+.acc{
+    color:white;
+    height:15px;
+    width:52.641;
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    float:left;
+    font-weight:700;
+    font-size:14px;
+}
+
+.s{
+    border:solid 1px black;
+    background-color:white;
+    height:40px;
+    width:100%;
+    margin:6px;
+    line-height:12px;
+    align-items:center;
+    margin-top:7px;
+}
+.s1{
+    color:rgb(15, 17, 17);
+    height:40px;
+    width:103.734px;     
+    font-size:14px;
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    float:left;
+    line-height:12px;
+    padding-top:9px;
+    
+}
+.s2{
+    font-size:15px;
+    text-align:start;
+    height:40px;;
+    font-weight:400;
+    float:left;
+    width:1016.77px;
+    color:rgb(17, 17, 17);
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+   
+}
+.s3{
+    border:solid 1px black;
+    height:40px;
+    width:45px;
+    float:left;
+    width:43px; 
+}
+.search{
+    height:100%;
+    width:100%;
+    
+    
+}
+.m{
+    height:100%;
+    width:100%;
+    padding-top:10px;
+}
+
+.c3{
+    height:100%;
+    width:1165.500px;
+    margin-left:10px;
+    margin-right:9px;
+    float:left;
+}
+.c4{
+    height:100%;
+    padding:8px 12px 8px 12px;
+    color:white;    
+    font-weight:700px;
+    width:70.375px;
+    float:left;
+    align-items:center;
+    margin-left:24px;
+}
+.indi{
+    border:solid 1px white;
+    height:15px;
+    width:20px;
+    align-items:center;
+    margin-top:18px;
+    float:left;
+}
+.ind{
+    
+    height:15px;
+    width:20px; 
+}
+
+.india{
+    padding-top
+    height:15px;
+    width:18.375px;
+    color:rgb(225, 225, 225);
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    font-size:14px; 
+    font-weight:700;
+    line-height:15px;
+    margin-top:18px;
+    margin-bottom:0px;
+    margin-left:3px;
+    margin-right:0px; 
+    float:left;     
+    
+}
+
+.c5{
+    height:100%;
+    padding:8px 9px 8px 9px;
+    color:white;
+    width:135.531px;
+    margin-left:6px;
+    float:left;
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    font-size:14px;
+    font-weight: 700;
+}
+.c6{
+    height:100%;
+    width:78.953px;
+    padding:8px 9px 8px 9px;
+    margin-left:6px;
+    color:white;
+    float:left;
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    font-size:14px;
+    font-weight: 400;
+}
+.c7{
+    height:100%;
+    width:80px;
+    text-align:right;
+    color:white;
+    margin-left:6px;
+    margin-right:15px;
+    float:left;
+}
+.cart{
+    
+    height:40px;
+    float:left;
+    width:45px;
+}
+.spc{
+    height:15px;
+    width:28px;
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    font-size:14px;
+    font-weight: 700;
+    padding-top:25px;
+    float:left;
+    
+    
+}
+
+.r2{
+    border:solid 1px black;
+    height:39px;
+    background-color:rgb(35, 47, 62);
+    width:100%;
+}
+.cs1{
+    border:solid 1px black;
+    padding:8px 9px 8px 9px;
+    font-family:"Amazon Ember" "Arial""sans-serif" ;
+    font-size:14px;
+    font-weight: 700;
+    padding-left:5px;
+    color:white;
+    height:100%;
+  
+    margin-left:15px;
+    float:left;  
+    
+}
+.cs2{
+    float: left;
+    font-family:"Amazon Ember" "Arial" "sans-serif";
+    font-size:14px;
+    line-height:12px;
+    margin-top:5px;
+    margin-bottom:6px;
+    padding-top:8px;
+    padding-right:12px;
+    padding-bottom:8px;
+    padding-left:12px;
+    color:white;
+    font-size:14px;
+    height:12px;
+    color:white;
+    font-weight:400;
+   
+    box-sizing:content-box;
+}
+.cs3{
+    float: left;
+    font-family:"Amazon Ember" "Arial" "sans-serif" ;
+    font-size:14px;
+    color:white;
+    height: 12px;
+   
+    margin-top:5px;
+    margin-bottom:6px;
+    margin-left:0px;
+    margin-right:0px;
+    padding-bottom:8px;
+    padding-left:12px;
+    padding-right:12px;
+    padding-top:8px;
+    line-height:12px;  
+}
+.cs4{
+    float: left;
+    height: 12px;
+    font-family:"Amazon Ember" "Arial" "sans-serif" ;
+    font-size:14px;
+   
+    color:white;
+    margin-top:5px;
+    margin-bottom:6px;
+    margin-left:0px;
+    margin-right:0px;
+    padding-bottom:8px;
+    padding-left:38px;
+    padding-right:12px;
+    padding-top:8px;
+    line-height:12px;      
+}
+.cs5{
+    float: left;
+    font-family:"Amazon Ember" "Arial" "sans-serif" ;
+    font-size:14px;
+    color:white;
+
+    margin-top:5px;
+    margin-bottom:6px;
+    margin-left:0px;
+    margin-right:0px;
+    height:12px;
+    padding-bottom:8px;
+    padding-left:60px;
+    padding-right:12px;
+    padding-top:8px;
+    line-height:12px;
+}
+.cs6{
+    
+    height:12px;
+    font-family:"Amazon Ember" "Arial" "sans-serif" ;
+    font-size:14px;
+    color:white;
+  
+    float:left;  
+    margin-top:5px;
+    margin-bottom:6px;
+    margin-left:0px;
+    margin-right:0px;
+    height:12px;
+    padding-bottom:8px;
+    padding-left:75px;
+    padding-right:12px;
+    padding-top:8px;
+    line-height:12px;
+}
+.cs7{
+    
+    height:12px;
+    font-family:"Amazon Ember" "Arial" "sans-serif" ;
+    font-size:14px;
+    font-weight:700;
+    padding:5px 8px 6px 8px;
+    color:white;
+  
+    float:right; 
+    margin-left:1px;
+    margin-right:2px;
+    margin-top:6px;
+    margin-bottom:7px;
+     
+}
+.r3{
+    
+    height:300px;
+    width:1500.357px;
+    margin:auto;
+    margin-top:18px;
+    
+}
+.r4{
+    
+    height:380px;
+    margin:auto;
+    width:1500.357px;
+    
+}
+.cf1{
+    
+    height:360px;
+    margin:auto;
+    width:360px;
+    float:left;
+}
+.k1{
+    margin-left:20px;
+}
+.k2{
+    margin-left:19px;
+}
+.k3{
+    margin-left:19px;
+}
+.in4{
+    
+    height:150px;
+    width:300px;
+    float:right;
+    margin:25px;
+}
+.lim{
+    height:183px;
+    width:300px;
+}
+.lim1{
+    height:183px;
+    width:300px;
+}
+
+.r5{
+   
+    height:380.719px;
+    width:1500.357px;
+    margin:auto;
+    margin-top:18px;
+   
+}
+.cfif1{
+    
+    height:358.031px;
+    width:360px;
+    float:left;
+}
+.image5{
+    height:358.031px;
+    width:360px;
+    
+}
+.cfif2{
+    
+    height:359.625px;
+    width:360px;
+    float:left;
+    margin-left:20px;
+}
+.image6{
+    height:359.625px;
+    width:360px;
+    
+}
+.cfif3{
+    
+    height:360.719px;
+    width:360px;
+    float:left;
+    margin-left:20px;
+}
+.image7{
+    height:360.719px;
+    width:360px;
+    
+}
+.cfif4{
+    
+    height:360px;
+    width:360px;
+    float:left;
+    margin-left:18px;
+}  
+.in1{
+    
+    height:115.844px;
+    width:147.250px;
+    float:left;
+    margin:10px;
+    margin-top:50px;
+    
+}
+.watch{
+    height:115.844px;
+    width:147.250px;
+    
+}
+.in2{
+    
+    height:115.844px;
+    width:147.250px;
+    float:left;
+    margin:10px;
+}
+.in3{
+     
+    height:27.2969;
+    width:305px;
+    font-weight:700;
+    padding:25px;
+    text-align:center;
+    color:rgb(15, 17, 17);
+    font-size:21px;
+    font-family:"Amazon Ember" "Arial" "sans-serif";
+}
+.sign{
+    border:solid 1px yellow;
+    font-size:13px;
+    font-family:"Amazon Ember" "Arial" "sans-serif"; 
+    height:29px;
+    width:308px;
+    background-color:yellow;
+    text-align:center;
+    color:rgb(15, 17, 17);
+    padding-top:5px;
+    margin-top:10px;
+}
+.chairs{
+    height:115.844px;
+    width:147.250px;
+}
+.com{
+    height:115.844px;
+    width:147.250px;
+}
+.games{
+    height:115.844px;
+    width:147.250px;
+}
+.baby{
+    height:115.844px;
+    width:147.250px;
+}
+.toys{
+    height:115.844px;
+    width:147.250px;
+}
+.full{
+    height:360px;
+    width:360px;
+}
+.in3{
+    
+    height:150px;
+    width:100%;
+    float:left;
+}
+
+
+.image8{
+    height:360px;
+    width:360px;
+    
+}
+.r6{
+    
+    height:380px;
+    width:1500px;
+    margin:auto;
+    
+}
+.csix1{
+    
+    height:359.625px;
+    width:360px;
+    float:left;
+}
+.csix2{
+    
+    height:360px;
+    width:360px;
+    float:left;
+    margin-left:20px;
+}
+.csix3{
+    
+    height:360px;
+    width:360px;
+    float:left;
+    margin-left:20px;
+}
+.csix4{
+    
+    height:360px;
+    width:360px;
+    float:left;
+    margin-left:18px;
+}
+.r7{
+    
+    height:380px;
+    width:1500px;
+    margin:auto;
+    
+}
+.csev1{
+    
+    height:359.625px;
+    width:360px;
+    float:left;
+}
+.img1{
+    height:360px;
+    width:360px;
+}
+.csev2{
+    
+    height:360px;
+    width:360px;
+    float:left;
+    margin-left:18px;
+}
+.img2{
+    height:360px;
+    width:360px;
+}
+.csev3{
+    
+    height:360px;
+    width:360px;
+    float:left;
+    margin-left:18px;
+}
+.img3{
+    height:360px;
+    width:360px;
+}
+.csev4{
+    
+    height:360px;
+    width:360px;
+    float:left;
+    margin-left:21px;
+}
+.img4{
+    height:360px;
+    width:360px;
+}
+.i1{
+    height:359.625px;
+    width:360px;
+}
+.i2{
+    height:360px;
+    width:360px;
+}
+
+.i3{
+    height:360px;
+    width:360px;
+}
+.i4{
+    height:360px;
+    width:360px;
+}
+.r8{
+   
+    height:264.85px;
+    width:1500px;
+    margin:auto;
+}
+.last{
+    margin:auto;
+    width:1500px;
+    
+}
+.back{
+    
+    height:50px;
+    text-align:center;
+    padding-top:15px;
+    background-color:rgb(35, 47, 62);
+    color:white;
+    font-size:14px; 
+    margin-top:70px;
+}
+.footer{
+    margin-top:10px;
+    height:388.359px;
+    width:100%;
+    background-color:#0F1111;
+    margin:auto;
+    
+}
+.foot{
+   
+    height:338.359px;
+    width:1000px;
+    background-color:#0F1111;
+    margin:auto;
+    
+}
+.line1{
+    margin-top:50px;
+    height:318.359px;
+    width:126.062px;
+    float:left;
+}
+.line2{
+    height:318.359px;
+    width:80px;
+    
+    float:left;
+    
+}
+.line3{
+    margin-top:50px;
+    height:318.359px;
+    width:174.312px;
+    
+    float:left;
+    font-size:14px;
+    padding-left:10px;
+    padding-right:10px;
+    font-family:"Amazon Ember" "Arial" "sans-serif"; 
+}
+.line4{
+    height:318.359px;
+    width:80px;
+    margin-top:50px;
+    float:left;
+}
+.line5{
+    height:318.359px;
+    width:212.219px;
+    margin-top:50px;
+    float:left;
+    font-size:14px;
+    padding-left:10px;
+    padding-right:10px;
+    font-family:"Amazon Ember" "Arial" "sans-serif"; 
+}
+.line6{
+    height:318.359px;
+    width:90px;
+    margin-top:50px;
+    float:left;
+}
+.line7{
+    height:318.359px;
+    width:157.406px;
+    margin-top:50px;
+    float:left;
+    font-size:14px;
+    padding-left:10px;
+    padding-right:10px;
+    font-family:"Amazon Ember" "Arial" "sans-serif"; 
+}
+.con1{
+    font-size:16px;
+    font-weight:700;
+    font-family:"Amazon Ember" "Arial" "sans-serif"; 
+    color:rgb(255, 255, 255);
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+.list{
+    color:rgb(221, 221, 221);
+    font-family:"Amazon Ember" "Arial" "sans-serif"; 
+    font-size:14px;
+    text-align:left;
+    list-style-type:none;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:0px;
+    padding-bottom:0px;
+    box-sizing:content-box;
+}
+.sp{
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+
+
